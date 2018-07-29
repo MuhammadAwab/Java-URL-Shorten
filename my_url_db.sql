@@ -1,0 +1,1 @@
+SELECT * FROM my_url_database.url_data_store;
